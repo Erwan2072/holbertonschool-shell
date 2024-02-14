@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -holbertonschool-shell "*-js" -delete
+rm -f *.js
