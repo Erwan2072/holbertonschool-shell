@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f "PATH" grep/ | wc -l
+echo "$PATH" grep/ | wc -l
